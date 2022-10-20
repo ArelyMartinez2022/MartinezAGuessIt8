@@ -16,4 +16,4 @@ OF NUMBERS. THEY WILL BE TOLD THAT THIER GUESSING NUMBER IS TOO
  USER IF THEY WOULD LIKE TO PLAY AGAIN. THAT TOO WILL RQUIRE DATA 
  VAILDTION.
 
-PEER REVIEW: NAME -- REVIEW
+PEER REVIEW: Isaiah Ferguson -- REVIEW. The Guess it game works great. the code is very well written and easy to read. I like how if you want to choose a dificulty level you inter 1, 2 or 3. It loops really well and doesn't ubruptly stop when intering an invalid option. the only thing i would slightly change is that when guess from 1 to 10 i got 0 as an option. so maybe double check and decrease the scope of the options. from 0 - 10 to 1 - 10 or vice versa. Overall an amazing game!!
