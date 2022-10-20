@@ -1,0 +1,15 @@
+/Users/arelymartinez/Desktop/redo/MartinezAGuessIt8/bin/Debug/net6.0/MartinezAGuessIt8
+/Users/arelymartinez/Desktop/redo/MartinezAGuessIt8/bin/Debug/net6.0/MartinezAGuessIt8.deps.json
+/Users/arelymartinez/Desktop/redo/MartinezAGuessIt8/bin/Debug/net6.0/MartinezAGuessIt8.runtimeconfig.json
+/Users/arelymartinez/Desktop/redo/MartinezAGuessIt8/bin/Debug/net6.0/MartinezAGuessIt8.dll
+/Users/arelymartinez/Desktop/redo/MartinezAGuessIt8/bin/Debug/net6.0/MartinezAGuessIt8.pdb
+/Users/arelymartinez/Desktop/redo/MartinezAGuessIt8/obj/Debug/net6.0/MartinezAGuessIt8.csproj.AssemblyReference.cache
+/Users/arelymartinez/Desktop/redo/MartinezAGuessIt8/obj/Debug/net6.0/MartinezAGuessIt8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arelymartinez/Desktop/redo/MartinezAGuessIt8/obj/Debug/net6.0/MartinezAGuessIt8.AssemblyInfoInputs.cache
+/Users/arelymartinez/Desktop/redo/MartinezAGuessIt8/obj/Debug/net6.0/MartinezAGuessIt8.AssemblyInfo.cs
+/Users/arelymartinez/Desktop/redo/MartinezAGuessIt8/obj/Debug/net6.0/MartinezAGuessIt8.csproj.CoreCompileInputs.cache
+/Users/arelymartinez/Desktop/redo/MartinezAGuessIt8/obj/Debug/net6.0/MartinezAGuessIt8.dll
+/Users/arelymartinez/Desktop/redo/MartinezAGuessIt8/obj/Debug/net6.0/refint/MartinezAGuessIt8.dll
+/Users/arelymartinez/Desktop/redo/MartinezAGuessIt8/obj/Debug/net6.0/MartinezAGuessIt8.pdb
+/Users/arelymartinez/Desktop/redo/MartinezAGuessIt8/obj/Debug/net6.0/MartinezAGuessIt8.genruntimeconfig.cache
+/Users/arelymartinez/Desktop/redo/MartinezAGuessIt8/obj/Debug/net6.0/ref/MartinezAGuessIt8.dll
