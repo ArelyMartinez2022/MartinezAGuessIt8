@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/arelymartinez/Desktop/redo/MartinezAGuessIt8/MartinezAGuessIt8.csproj",
+      "projectUniqueName": "/Users/arelymartinez/Desktop/GitRepository/MartinezAGuessIt8/MartinezAGuessIt8.csproj",
       "projectName": "MartinezAGuessIt8",
-      "projectPath": "/Users/arelymartinez/Desktop/redo/MartinezAGuessIt8/MartinezAGuessIt8.csproj",
+      "projectPath": "/Users/arelymartinez/Desktop/GitRepository/MartinezAGuessIt8/MartinezAGuessIt8.csproj",
       "packagesPath": "/Users/arelymartinez/.nuget/packages/",
-      "outputPath": "/Users/arelymartinez/Desktop/redo/MartinezAGuessIt8/obj/",
+      "outputPath": "/Users/arelymartinez/Desktop/GitRepository/MartinezAGuessIt8/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/arelymartinez/.nuget/NuGet/NuGet.Config"
